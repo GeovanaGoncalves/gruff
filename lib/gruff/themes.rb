@@ -14,7 +14,7 @@ module Gruff
       ],
       :marker_color => 'black',
       :font_color => 'black',
-      :background_colors => %w(black #4a465a)
+      :background_colors => %w(#d1edf5 white)
     }
 
     # A color scheme plucked from the colors on the popular usability blog.
