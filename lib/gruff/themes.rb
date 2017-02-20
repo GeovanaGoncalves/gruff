@@ -43,7 +43,7 @@ module Gruff
         '#f61100',  # red
         'white',
         '#999999',  # light grey
-        'black'
+        'white'
       ],
       :marker_color => 'black',
       :font_color => 'black',
