@@ -28,8 +28,8 @@ module Gruff
         '#cf5910',  # orange
         'black'
       ],
-      :marker_color => 'black',
-      :font_color => 'black',
+      :marker_color => 'white',
+      :font_color => 'white',
       :background_colors => %w(#d1edf5 white)
     }
 
