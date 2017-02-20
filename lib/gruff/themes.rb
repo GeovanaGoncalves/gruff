@@ -4,7 +4,6 @@ module Gruff
     # A color scheme similar to the popular presentation software.
     KEYNOTE = {
       :colors => [
-        '#339933',  # green
         '#ff0000',  # red
         '#cc99cc',  # purple
         '#cf5910',  # orange
