@@ -12,8 +12,8 @@ module Gruff
         '#EFAA43',  # orange
         'white'
       ],
-      :marker_color => 'white',
-      :font_color => 'white',
+      :marker_color => 'black',
+      :font_color => 'black',
       :background_colors => %w(black #4a465a)
     }
 
@@ -28,8 +28,8 @@ module Gruff
         '#cf5910',  # orange
         'black'
       ],
-      :marker_color => 'white',
-      :font_color => 'white',
+      :marker_color => 'black',
+      :font_color => 'black',
       :background_colors => %w(#d1edf5 white)
     }
 
@@ -45,8 +45,8 @@ module Gruff
         '#999999',  # light grey
         'black'
       ],
-      :marker_color => 'white',
-      :font_color => 'white',
+      :marker_color => 'black',
+      :font_color => 'black',
       :background_colors => %w(#0083a3 #0083a3)
     }
 
