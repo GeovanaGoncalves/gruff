@@ -26,7 +26,7 @@ module Gruff
         '#ff0000',  # red
         '#cc99cc',  # purple
         '#cf5910',  # orange
-        'black'
+        'white'
       ],
       :marker_color => 'black',
       :font_color => 'black',
