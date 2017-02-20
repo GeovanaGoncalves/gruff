@@ -59,10 +59,10 @@ module Gruff
         '#a21764',  # dark pink
         '#8ab438',  # green
         '#999999',  # light grey
-        'black'
+        'white'
       ],
-      :marker_color => 'white',
-      :font_color => 'white',
+      :marker_color => 'black',
+      :font_color => 'black',
       :background_colors => %w(#ff47a4 #ff1f81)
     }
 
